@@ -6,6 +6,10 @@ This repository contains a Python script for extracting job postings using Selen
 
 Installation
 Ensure you have Python installed, then install the required libraries:
+
+!pip install selenium
+Additionally, you need to download the compatible Chromedriver executable file for your Chrome browser version.
+
 - from selenium import webdriver
 - from selenium.webdriver.common.by import By
 - import os
@@ -16,10 +20,8 @@ Ensure you have Python installed, then install the required libraries:
 
 
 
-!pip install selenium
-Additionally, you need to download the compatible Chromedriver executable file for your Chrome browser version.
 
-Usage
+**Usage**
 Clone the repository or download the script.
 Install the required libraries as mentioned above.
 Run the script.
