@@ -1,4 +1,4 @@
-**Data mining using selinium and BeautifulSoup**
+**Data mining with selinium and BeautifulSoup**
 
 Install and import the libraries :
 !pip install selenium
